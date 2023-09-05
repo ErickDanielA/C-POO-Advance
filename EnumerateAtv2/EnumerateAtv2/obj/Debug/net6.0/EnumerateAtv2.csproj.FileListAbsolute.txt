@@ -1,0 +1,15 @@
+C:\Users\Monkold\Desktop\C#\EnumerateAtv2\EnumerateAtv2\bin\Debug\net6.0\EnumerateAtv2.exe
+C:\Users\Monkold\Desktop\C#\EnumerateAtv2\EnumerateAtv2\bin\Debug\net6.0\EnumerateAtv2.deps.json
+C:\Users\Monkold\Desktop\C#\EnumerateAtv2\EnumerateAtv2\bin\Debug\net6.0\EnumerateAtv2.runtimeconfig.json
+C:\Users\Monkold\Desktop\C#\EnumerateAtv2\EnumerateAtv2\bin\Debug\net6.0\EnumerateAtv2.dll
+C:\Users\Monkold\Desktop\C#\EnumerateAtv2\EnumerateAtv2\bin\Debug\net6.0\EnumerateAtv2.pdb
+C:\Users\Monkold\Desktop\C#\EnumerateAtv2\EnumerateAtv2\obj\Debug\net6.0\EnumerateAtv2.csproj.AssemblyReference.cache
+C:\Users\Monkold\Desktop\C#\EnumerateAtv2\EnumerateAtv2\obj\Debug\net6.0\EnumerateAtv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monkold\Desktop\C#\EnumerateAtv2\EnumerateAtv2\obj\Debug\net6.0\EnumerateAtv2.AssemblyInfoInputs.cache
+C:\Users\Monkold\Desktop\C#\EnumerateAtv2\EnumerateAtv2\obj\Debug\net6.0\EnumerateAtv2.AssemblyInfo.cs
+C:\Users\Monkold\Desktop\C#\EnumerateAtv2\EnumerateAtv2\obj\Debug\net6.0\EnumerateAtv2.csproj.CoreCompileInputs.cache
+C:\Users\Monkold\Desktop\C#\EnumerateAtv2\EnumerateAtv2\obj\Debug\net6.0\EnumerateAtv2.dll
+C:\Users\Monkold\Desktop\C#\EnumerateAtv2\EnumerateAtv2\obj\Debug\net6.0\refint\EnumerateAtv2.dll
+C:\Users\Monkold\Desktop\C#\EnumerateAtv2\EnumerateAtv2\obj\Debug\net6.0\EnumerateAtv2.pdb
+C:\Users\Monkold\Desktop\C#\EnumerateAtv2\EnumerateAtv2\obj\Debug\net6.0\EnumerateAtv2.genruntimeconfig.cache
+C:\Users\Monkold\Desktop\C#\EnumerateAtv2\EnumerateAtv2\obj\Debug\net6.0\ref\EnumerateAtv2.dll
